@@ -3,19 +3,20 @@
 
 # This is a social media handler
 # what can it do?
-**[1] .** unfollow/unfriend your friend on facebook,twitter and instagram 
-**[2]** auto add friend/or following in tiktok and twitter 
+<div>
+<p> <b>[1]</b>.unfollow/unfriend all user in <b> style="color: blue">TIKTOK,FACEBOOK AND INSTAGRAM</b></p>
+ <p><b>[2]</b>auto add user in <b color="blue">TIKTOK AND TWITTER ONLY</b></p>
+</div>
 
 # NOTE: it's only for educational purpose  i am not responsible for mis use of the code
 
 # USAGE 
-python setup.py 
-# after the  setup is complete 
-python main.py
-# Note:
-    if permisson denied to copy chromedriver to  **(Programefile (86))** do it manually 
   <pre>
    python setup.py
    python main.py
    
   </pre>
+ 
+# Note:
+    if permisson denied to copy chromedriver to  **(Programefile (86))** do it manually 
+
